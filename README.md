@@ -1,2 +1,2 @@
 # NTI-Final-Project
-Simple implementation of I2C Master with it's test bench
+I2C Master module implementation + testbench and simulation
