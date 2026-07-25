@@ -1,2 +1,2 @@
 # NTI-Final-Project
-This is the final version of the I2C protocol.
+Simple implementation of I2C Master with it's test bench
